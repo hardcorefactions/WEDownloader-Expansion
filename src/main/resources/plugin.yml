@@ -1,0 +1,3 @@
+name: WEDownloader-Expansion
+version: '${project.version}'
+main: com.extendedclip.wedownloader.WEDownloaderExpansion
